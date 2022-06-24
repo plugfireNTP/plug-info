@@ -1,0 +1,3 @@
+Name : plug
+age : 30
+mobile : 089
